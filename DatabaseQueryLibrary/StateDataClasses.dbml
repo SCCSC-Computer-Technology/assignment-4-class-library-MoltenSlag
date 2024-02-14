@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StateDatabase" Class="StateDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\AlexGann-CPT-206-Lab-2\bin\Debug\StateDatabase.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True" SettingsObjectName="DatabaseQueryLibrary.Properties.Settings" SettingsPropertyName="StateDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.State" Member="States">
+    <Type Name="State">
+      <Column Name="StateName" Type="System.String" DbType="VarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Population" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FlagDescription" Type="System.String" DbType="Text NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="StateFlower" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="StateBird" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="StateColors" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="LargestCity" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="SecondLargestCity" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="ThirdLargestCity" Type="System.String" DbType="VarChar(40)" CanBeNull="true" />
+      <Column Name="Capitol" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="MedianIncome" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="PercentJobsComputerRelated" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

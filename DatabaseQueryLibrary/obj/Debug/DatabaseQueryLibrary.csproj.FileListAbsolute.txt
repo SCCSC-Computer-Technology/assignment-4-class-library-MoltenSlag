@@ -1,0 +1,7 @@
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\bin\Debug\DatabaseQueryLibrary.dll.config
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\bin\Debug\DatabaseQueryLibrary.dll
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\bin\Debug\DatabaseQueryLibrary.pdb
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\obj\Debug\DatabaseQueryLibrary.csproj.AssemblyReference.cache
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\obj\Debug\DatabaseQueryLibrary.csproj.CoreCompileInputs.cache
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\obj\Debug\DatabaseQueryLibrary.dll
+F:\School\CodeProjects\assignment-3-build-an-application-MoltenSlag\DatabaseQueryLibrary\obj\Debug\DatabaseQueryLibrary.pdb
