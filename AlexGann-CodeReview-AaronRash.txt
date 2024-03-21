@@ -1,0 +1,14 @@
+Alex Gann code review by Aaron Rash
+
+This is one of the shorter libraries I've looked at, but one of the more practical at the same time.
+
+I went back and looked at your assignment-3 to see how it was applied, and I quite like this approach.
+
+Your class can either return an enumerated list of state names (a column), or the values associated with a selected state (a row).
+You then use those results to populate the controls on the form. (dynamically in the case of the state row info)
+This keeps your code very concise and readable without losing functionality.
+Using this as a blueprint, the same logic can be applied to whatever column or row one desires.
+
+I do think this class could use a few more queries, but this is logically sound.
+
+Your code is clear, concise, and useful.
