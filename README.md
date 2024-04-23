@@ -3,3 +3,5 @@
 I've sent this in with the database it's 'attached' to, but you may need to manually re-attach the database after downloading the library.
 
 Not entirely sure how to ensure that the database maintains connection. Need to figure that out for future projects.
+
+Description: a class library with simple functions for interacting with a database. The database is a local file, which has been attached.
